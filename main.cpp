@@ -4,3 +4,4 @@ int main() {
     std::cout << "This is a new feature from dev branch." << std::endl;
     return 0;
 }// Update by Shan: This is better code
+ // Update by Luo: This is my code
